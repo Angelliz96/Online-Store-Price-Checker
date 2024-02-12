@@ -8,7 +8,7 @@ In this example, the store employee inputs the name of the item and its "base pr
 2. Use prompt() to ask a few questions:
 
     Enter the name of the item:
-
+    
     What is the base price of the item?
 
     Is today "Black Friday"? Answer yes or no.
